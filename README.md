@@ -1,158 +1,93 @@
-# Hey there, I'm Nityansh 👋
+# Nityansh Rupesh Bahadur 👋
 
-### Full Stack Developer | Problem Solver | Lifelong Learner 🚀
+### Full-Stack Web Developer · Python Developer · AI Application Enthusiast
 
-I'm a passionate developer from **Lucknow, India 🇮🇳**, driven by curiosity, innovation, and the challenge of turning complex ideas into real-world applications.
+I’m a Computer Science student from **Lucknow, India**, focused on building useful software where **full-stack engineering, Python, AI, and problem-solving** meet.
 
-I enjoy building projects that require **deep thinking, problem-solving, and strong logical architecture**. For me, development isn't just about writing code, it's about understanding a problem, breaking it down, and building something meaningful from scratch.
+I enjoy turning ideas into real products, understanding how systems work, and learning through ambitious projects rather than just following tutorials.
 
-I'm constantly exploring new technologies and pushing myself outside my comfort zone. Every day is an opportunity to learn something new and become a better developer than I was yesterday.
+> **Build. Break. Learn. Improve.**
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Currently building an **AI-powered Career Platform**
-* 🐍 Currently mastering **Python**
-* 🌱 Exploring **Full Stack Development, DevOps & Artificial Intelligence**
-* 🧩 I enjoy solving complex problems and building logic-heavy projects
-* 🚀 I love ambitious projects that challenge the way I think
-* 📚 Constantly learning and expanding my technical toolkit
-* 💡 I build not just for work, but because I genuinely enjoy creating things
-
-> *"The best projects start with a crazy idea and enough curiosity to figure out how to build it."*
+- 🔭 Building **CareerUpAI**, an AI-powered career platform
+- 🤖 Exploring practical **AI application development** and intelligent workflows
+- 🐍 Making **Python** a deeper core skill for automation and AI
+- 🌐 Building with **React, Node.js, Express, Flask, Django, MongoDB, MySQL, and Firebase**
+- ⚙️ Exploring **Docker, Linux, DevOps, APIs, deployment, and backend architecture**
+- 💼 Experience across **freelance web development, graphic design, and video editing**
+- 👥 Technical member of a **college coding club**
 
 ---
 
-# 🚀 Currently Building
-
-### 🧑‍💼 AI-Powered Career Platform
-
-A platform designed to help people improve and navigate their careers.
-
-### Core Features:
-
-* 📄 Upload and analyze CVs
-* 🤖 AI-powered career guidance
-* ✨ Smart suggestions for career improvement
-* 📝 Built-in CV/Resume Builder
-* 🎯 Personalized recommendations
-* 📊 Career-focused tools and resources
-
-The goal is to create an intelligent platform where users can **build, improve, and understand their professional journey with the help of AI**.
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages & Development
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,nodejs,express,flask,django,mongodb,mysql,firebase,docker,git,github,linux,vscode,vercel" />
 </p>
 
-### 🌐 Full Stack Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite" />
-</p>
-
-### ⚙️ Currently Exploring
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-</p>
-
-**Currently learning & exploring:**
-
-`MERN Stack` • `Python` • `DevOps` • `Artificial Intelligence` • `Backend Architecture`
-
-> ⚡ My tech stack is constantly evolving. I believe learning never really stops.
+**Also:** C / C++ · REST APIs · API Integration · Debugging · Responsive Design · Deployment
 
 ---
 
-# 📈 My Development Journey
+## 🚀 Projects
 
-```text
-2026
+### CareerUpAI
+**AI-powered career platform · Major project · In development**
 
-Python              ████████████████████░   Mastering
-Full Stack          █████████████████░░░░   Learning
-MERN Stack          ███████████████░░░░░░   Building
-DevOps              █████████░░░░░░░░░░░   Exploring
-Artificial Intel.   ████████░░░░░░░░░░░░   Exploring
-```
+A platform designed to help people analyze and improve their resumes, receive career guidance, and get personalized recommendations.
 
----
+**Focus:** Full-stack development · AI workflows · Career tooling
 
-# 📊 GitHub Analytics
+### Real-Time Chat Application
+**Telegram-inspired full-stack project**
 
-<p align="center">
+A responsive web messaging application built around interactive communication, frontend experience, backend functionality, and deployment.
 
-<img src="https://github-readme-stats.vercel.app/api?username=nityansh19&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+### Personal AI Assistant
+**Python · AI · Automation · In development**
 
-<img src="https://streak-stats.demolab.com?user=nityansh19&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansh19&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+An independent project exploring intelligent workflows, automation, productivity tooling, and practical AI applications.
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Experience
 
-> Big things are currently cooking. 👨‍💻🔥
+**Freelance Digital Services** — Web Developer · Graphic Designer · Video Editor
 
-I'm working on several ideas and will be showcasing my best projects here soon.
+Worked from client requirements through communication, implementation, iteration, and delivery across both technical and creative projects.
 
-```text
-📌 AI Career Platform          → In Development
-📌 Future Project              → Coming Soon
-📌 Future Project              → Coming Soon
-```
+**College Coding Club** — Technical Member
+
+Participated in coding activities, technical discussions, collaborative problem-solving, and peer learning.
 
 ---
 
-# 🧠 Philosophy
+## 🎓 Education
 
-I believe great developers aren't defined by how many languages they know.
-
-They're defined by their ability to:
-
-* Think differently 💡
-* Solve difficult problems 🧩
-* Learn continuously 📚
-* Build things from scratch 🏗️
-* Adapt to new technologies ⚡
-
-My goal is simple:
-
-> **Keep learning. Keep building. Keep challenging myself.**
+**Bachelor of Computer Applications (Computer Science)**  
+Integral University, Lucknow · **CGPA: 7.3 / 10** · Expected May 2027
 
 ---
 
-# 🤝 Let's Connect
+## 🎯 Currently Looking For
 
-<p align="left">
+**Web Development · Full-Stack · Python · Software Development · AI Internships**
 
-📧 **Email:** [Nityansh.bahadur1905@gmail.com](mailto:Nityansh.bahadur1905@gmail.com)
+Open for **jobs, internships, collaborations, and interesting projects**.
 
-📸 **Instagram:** <a href="https://instagram.com/nityansh.19">@nityansh.19</a>
+---
 
-💬 **Discord:** `kakarotsenpai`
+## 🌐 Find Me
 
-</p>
+🌍 **Portfolio:** [nityansh-portfolio.vercel.app](https://nityansh-portfolio.vercel.app)  
+📧 **Email:** [Nityansh.bahadur1905@gmail.com](mailto:Nityansh.bahadur1905@gmail.com)  
+📸 **Instagram:** [@nityansh.19](https://instagram.com/nityansh.19)
 
 ---
 
 <p align="center">
-
-### 🚀 Always building. Always learning. Always leveling up.
-
-<img src="https://komarev.com/ghpvc/?username=nityansh19&label=Profile%20Views&color=blueviolet&style=flat" />
-
+  <strong>Always learning. Always building.</strong>
 </p>
