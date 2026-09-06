@@ -1,93 +1,60 @@
-# Nityansh Rupesh Bahadur 👋
+<div align="center">
 
-### Full-Stack Web Developer · Python Developer · AI Application Enthusiast
+# NITYANSH
+### Full-Stack Developer · Python · AI
 
-I’m a Computer Science student from **Lucknow, India**, focused on building useful software where **full-stack engineering, Python, AI, and problem-solving** meet.
+Building useful products where **engineering, intelligence, and design** meet.
 
-I enjoy turning ideas into real products, understanding how systems work, and learning through ambitious projects rather than just following tutorials.
+[Portfolio](https://nityansh-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nityansh-rupesh-bahadur/) · [Instagram](https://instagram.com/nityansh.19)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=7B88FF&center=true&vCenter=true&width=650&lines=Full-Stack+Development;Python+%2B+AI+Applications;Backend+%26+System+Architecture;Always+building%2C+learning%2C+improving" alt="Typing animation" />
+
+</div>
+
+---
+
+## ⚡ Currently
+
+- 🚀 Building **CareerUpAI** — an AI-powered career platform
+- 🤖 Exploring **Python, AI applications, automation & intelligent workflows**
+- 🧩 Going deeper into **backend architecture, APIs, Docker & DevOps**
+- 💼 **Open for internships, jobs, collaborations & interesting projects**
+
+## 🛠️ Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,express,flask,django,mongodb,mysql,docker,linux,git,github,vercel" />
+</p>
+
+## 🚀 Featured Work
+
+| Project | Focus |
+|---|---|
+| **CareerUpAI** | AI · Full Stack · Career Technology |
+| **Real-Time Chat** | React · Node · APIs · Real-time UX |
+| **Personal AI Assistant** | Python · AI · Automation |
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nityansh19&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansh19&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nityansh19&hide_border=true&theme=transparent" />
+
+</div>
+
+## 🧠 Beyond Code
+
+**Problem solving · Product thinking · UI/UX · Graphic design · Video editing · Continuous learning**
 
 > **Build. Break. Learn. Improve.**
 
----
+<div align="center">
 
-## 🧠 About Me
+### Let's build something meaningful.
 
-- 🔭 Building **CareerUpAI**, an AI-powered career platform
-- 🤖 Exploring practical **AI application development** and intelligent workflows
-- 🐍 Making **Python** a deeper core skill for automation and AI
-- 🌐 Building with **React, Node.js, Express, Flask, Django, MongoDB, MySQL, and Firebase**
-- ⚙️ Exploring **Docker, Linux, DevOps, APIs, deployment, and backend architecture**
-- 💼 Experience across **freelance web development, graphic design, and video editing**
-- 👥 Technical member of a **college coding club**
+**[nityansh-portfolio.vercel.app](https://nityansh-portfolio.vercel.app)**
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,nodejs,express,flask,django,mongodb,mysql,firebase,docker,git,github,linux,vscode,vercel" />
-</p>
-
-**Also:** C / C++ · REST APIs · API Integration · Debugging · Responsive Design · Deployment
-
----
-
-## 🚀 Projects
-
-### CareerUpAI
-**AI-powered career platform · Major project · In development**
-
-A platform designed to help people analyze and improve their resumes, receive career guidance, and get personalized recommendations.
-
-**Focus:** Full-stack development · AI workflows · Career tooling
-
-### Real-Time Chat Application
-**Telegram-inspired full-stack project**
-
-A responsive web messaging application built around interactive communication, frontend experience, backend functionality, and deployment.
-
-### Personal AI Assistant
-**Python · AI · Automation · In development**
-
-An independent project exploring intelligent workflows, automation, productivity tooling, and practical AI applications.
-
----
-
-## 💼 Experience
-
-**Freelance Digital Services** — Web Developer · Graphic Designer · Video Editor
-
-Worked from client requirements through communication, implementation, iteration, and delivery across both technical and creative projects.
-
-**College Coding Club** — Technical Member
-
-Participated in coding activities, technical discussions, collaborative problem-solving, and peer learning.
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (Computer Science)**  
-Integral University, Lucknow · **CGPA: 7.3 / 10** · Expected May 2027
-
----
-
-## 🎯 Currently Looking For
-
-**Web Development · Full-Stack · Python · Software Development · AI Internships**
-
-Open for **jobs, internships, collaborations, and interesting projects**.
-
----
-
-## 🌐 Find Me
-
-🌍 **Portfolio:** [nityansh-portfolio.vercel.app](https://nityansh-portfolio.vercel.app)  
-📧 **Email:** [Nityansh.bahadur1905@gmail.com](mailto:Nityansh.bahadur1905@gmail.com)  
-📸 **Instagram:** [@nityansh.19](https://instagram.com/nityansh.19)
-
----
-
-<p align="center">
-  <strong>Always learning. Always building.</strong>
-</p>
+</div>
