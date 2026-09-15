@@ -13,39 +13,53 @@ Building useful products where **engineering, intelligence, and design** meet.
 
 ---
 
-## ⚡ Currently
+## About
 
-- 🚀 Building **CareerUpAI** — an AI-powered career platform
-- 🤖 Exploring **Python, AI applications, automation & intelligent workflows**
-- 🧩 Going deeper into **backend architecture, APIs, Docker & DevOps**
-- 💼 **Open for internships, jobs, collaborations & interesting projects**
+I build full-stack products with a strong focus on clear UX, backend structure, and practical AI use cases. My current learning is centered around Python, intelligent applications, automation, and stronger system architecture.
 
-## 🛠️ Stack
+**Currently:**
+
+- Building **CareerUpAI**, an AI-powered career platform
+- Exploring **Python, AI applications, automation, and intelligent workflows**
+- Going deeper into **backend architecture, APIs, Docker, and DevOps**
+- Open to **internships, jobs, collaborations, and interesting projects**
+
+## Featured projects
+
+| Project | What it is | Main focus |
+|---|---|---|
+| [CareerUpAI](https://github.com/nityansh19/CareerUpAI) | AI-focused career platform | React · Node · MongoDB · Career Intelligence |
+| [Nitra Chat](https://github.com/nityansh19/Nitra-chat) | Premium communication workspace | Next.js · Firebase · Real-time UX |
+| [Nivora](https://github.com/nityansh19/Nivora) | Personal finance OS for web and Android | React · TypeScript · Supabase · Capacitor |
+| [Folio](https://github.com/nityansh19/Notes) | Private personal knowledge workspace | React · TypeScript · D1 · R2 |
+| [Barca](https://github.com/nityansh19/Barca) | FC Barcelona fan companion | Next.js · Expo · Live football data |
+| [Portfolio](https://github.com/nityansh19/nityansh-portfolio) | Interactive digital CV and project showcase | Next.js · TypeScript · Motion |
+
+## Tech stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,express,flask,django,mongodb,mysql,docker,linux,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,express,flask,django,mongodb,mysql,docker,linux,git,github,vercel" alt="Technology stack" />
 </p>
 
-## 🚀 Featured Work
+### Main areas
 
-| Project | Focus |
-|---|---|
-| **CareerUpAI** | AI · Full Stack · Career Technology |
-| **Real-Time Chat** | React · Node · APIs · Real-time UX |
-| **Personal AI Assistant** | Python · AI · Automation |
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, APIs, MongoDB
+- **Currently expanding:** Python, AI applications, automation, DevOps
+- **Product:** UI/UX, responsive interfaces, architecture, deployment
 
-## 📊 GitHub Activity
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nityansh19&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansh19&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nityansh19&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansh19&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nityansh19&hide_border=true&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nityansh19&hide_border=true&theme=transparent" alt="GitHub streak" />
 
 </div>
 
-## 🧠 Beyond Code
+## Beyond code
 
 **Problem solving · Product thinking · UI/UX · Graphic design · Video editing · Continuous learning**
 
