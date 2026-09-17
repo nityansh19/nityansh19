@@ -52,10 +52,10 @@ I build full-stack products with a strong focus on clear UX, backend structure, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nityansh19&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansh19&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=nityansh19&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nityansh19&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nityansh19&hide_border=true&theme=transparent" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=nityansh19&hide_border=true&theme=transparent" alt="GitHub streak" />
 
 </div>
 
