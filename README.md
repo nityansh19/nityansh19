@@ -15,12 +15,12 @@ Building useful products where **engineering, intelligence, and design** meet.
 
 ## About
 
-I build full-stack products with a strong focus on clear UX, backend structure, and practical AI use cases. My current learning is centered around Python, intelligent applications, automation, and stronger system architecture.
+I build full-stack products with a strong focus on clear UX, backend structure, and practical AI use cases. My current learning is centered around Python, SQL, data science, intelligent applications, automation, and stronger system architecture.
 
 **Currently:**
 
 - Building **CareerUpAI**, an AI-powered career platform
-- Exploring **Python, AI applications, automation, and intelligent workflows**
+- Exploring **Python, SQL, data science, AI applications, and intelligent workflows**
 - Going deeper into **backend architecture, APIs, Docker, and DevOps**
 - Open to **internships, jobs, collaborations, and interesting projects**
 
@@ -39,15 +39,29 @@ My main builds across career technology, finance, knowledge management, communic
 ## Tech stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,express,flask,django,mongodb,mysql,docker,linux,git,github,vercel" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,express,flask,django,mongodb,mysql,docker,linux,git,github,vercel" alt="Technology stack icons" />
 </p>
+
+### Programming & query languages
+
+**Python · SQL · JavaScript · TypeScript**
+
+### Data science & AI
+
+Skills and topics from my **CodeWithHarry Data Science** coursework and ongoing practice:
+
+- **Data analysis:** NumPy, Pandas, exploratory data analysis (EDA), data cleaning and preprocessing
+- **Data visualization:** Matplotlib, Seaborn
+- **Data science tools:** Jupyter Notebook, Google Colab, Conda
+- **Machine learning foundations:** statistics, probability, Scikit-learn; exploring deep learning, neural networks, LLMs, and RAG
 
 ### Main areas
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, APIs, MongoDB
-- **Currently expanding:** Python, AI applications, automation, DevOps
+- **Backend & databases:** Node.js, Express, REST APIs, MongoDB, SQL, Supabase
+- **Developer tools:** Git, GitHub, Linux, Docker, Vercel
 - **Product:** UI/UX, responsive interfaces, architecture, deployment
+- **Currently expanding:** Python, data science, machine learning, AI applications, automation, DevOps
 
 ## GitHub activity
 
