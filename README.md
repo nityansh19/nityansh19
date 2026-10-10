@@ -63,6 +63,16 @@ Skills and topics from my **CodeWithHarry Data Science** coursework and ongoing 
 - **Product:** UI/UX, responsive interfaces, architecture, deployment
 - **Currently expanding:** Python, data science, machine learning, AI applications, automation, DevOps
 
+## Certifications
+
+**The Ultimate Job Ready Data Science Course** — **CodeWithHarry**  
+*Certificate of Completion · 05 October 2026*
+
+Python for Data Science · NumPy · Pandas · SQL · Data Visualization · Statistics · Machine Learning · AI Foundations
+
+**Certificate ID:** `CWH-THE-ULTIMATE-JOB-READY-DATA-SCIENCE-COURSE-KDWV87R5`  
+[Course details](https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course)
+
 ## GitHub activity
 
 <div align="center">
