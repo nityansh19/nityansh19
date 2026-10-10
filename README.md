@@ -26,14 +26,15 @@ I build full-stack products with a strong focus on clear UX, backend structure, 
 
 ## Featured projects
 
-| Project | What it is | Main focus |
+My main builds across career technology, finance, knowledge management, communication, and health.
+
+| Project | What it does | Tech highlights |
 |---|---|---|
-| [CareerUpAI](https://github.com/nityansh19/CareerUpAI) | AI-focused career platform | React · Node · MongoDB · Career Intelligence |
-| [Nitra Chat](https://github.com/nityansh19/Nitra-chat) | Premium communication workspace | Next.js · Firebase · Real-time UX |
-| [Nivora](https://github.com/nityansh19/Nivora) | Personal finance OS for web and Android | React · TypeScript · Supabase · Capacitor |
-| [Folio](https://github.com/nityansh19/Notes) | Private personal knowledge workspace | React · TypeScript · D1 · R2 |
-| [Barca](https://github.com/nityansh19/Barca) | FC Barcelona fan companion | Next.js · Expo · Live football data |
-| [Portfolio](https://github.com/nityansh19/nityansh-portfolio) | Interactive digital CV and project showcase | Next.js · TypeScript · Motion |
+| **[CareerUpAI](https://github.com/nityansh19/CareerUpAI)** · [Live app](https://career-up-ai-delta.vercel.app/) | Career workspace for resume review, learning paths, applications, and interview preparation | React · Vite · Tailwind CSS · PDF.js |
+| **[Nivora](https://github.com/nityansh19/Nivora)** | Personal finance OS with budgets, transactions, savings, analytics, and Android support | React · TypeScript · Supabase · Capacitor |
+| **[Folio](https://github.com/nityansh19/Notes)** | Private knowledge workspace for notes, tasks, journals, projects, and connected thinking | React · TypeScript · Cloudflare D1 · R2 |
+| **[Nitra Chat](https://github.com/nityansh19/Nitra-chat)** | Modern communication workspace with rich messaging interactions and responsive design | Next.js · TypeScript · Firebase foundation |
+| **[Health Tracker](https://github.com/nityansh19/Health-tracker)** · [Live app](https://health-tracker-zeta-gold.vercel.app/) | Track health readings, review trends, and export reports | React · TypeScript · Supabase · Recharts |
 
 ## Tech stack
 
