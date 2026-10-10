@@ -71,7 +71,8 @@ Skills and topics from my **CodeWithHarry Data Science** coursework and ongoing 
 Python for Data Science · NumPy · Pandas · SQL · Data Visualization · Statistics · Machine Learning · AI Foundations
 
 **Certificate ID:** `CWH-THE-ULTIMATE-JOB-READY-DATA-SCIENCE-COURSE-KDWV87R5`  
-[Course details](https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course)
+
+📜 **[View CodeWithHarry Certificate (PDF)](https://d2ol7oe51mr4n9.cloudfront.net/user_3JJQWBY7GZJfQxsRHaeVxv0LEWX/227bfa72-c920-43c7-8e9a-ea3c602533a1.pdf)** · [Course details](https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course)
 
 ## GitHub activity
 
